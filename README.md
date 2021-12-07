@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hariniheartlove
 - 👀 I’m interested in coding and web delevoping 
-- 🌱 I’m currently learning SQL, JS, Python.
+- 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to collaborate on a project for cornavirus
 - 📫 How to reach me Email at my email
 <!---
